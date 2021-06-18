@@ -1,20 +1,24 @@
-172.217.27.142          google.com
 74.125.142.101          google.com
 74.125.142.100          google.com
 74.125.142.102          google.com
 74.125.142.113          google.com
 74.125.142.138          google.com
 74.125.142.139          google.com
+172.217.27.142          google.com
+2607:f8b0:400e:c08::71  google.com
 2607:f8b0:400e:c08::8a  google.com
 2607:f8b0:400e:c08::65  google.com
 2607:f8b0:400e:c08::64  google.com
 2607:f8b0:400e:c08::66  google.com
 
+172.217.160.68          www.google.com
 216.58.200.228          www.google.com
+2607:f8b0:400e:c09::67  www.google.com
 2607:f8b0:400e:c09::6a  www.google.com
 2607:f8b0:400e:c09::68  www.google.com
 2607:f8b0:400e:c09::93  www.google.com
 2607:f8b0:400e:c09::69  www.google.com
+
 74.125.195.17           gmail.com
 74.125.195.19           gmail.com
 74.125.195.18           gmail.com
@@ -86,11 +90,28 @@
 2607:f8b0:400e:c08::71  drive.google.com
 2607:f8b0:400e:c08::66  drive.google.com
 
+74.125.142.99           googleapis.com
+74.125.142.104          googleapis.com
+74.125.142.105          googleapis.com
+74.125.142.103          googleapis.com
+74.125.142.147          googleapis.com
+74.125.142.106          googleapis.com
+2607:f8b0:400e:c08::6a  googleapis.com
+2607:f8b0:400e:c08::68  googleapis.com
+2607:f8b0:400e:c08::67  googleapis.com
+2607:f8b0:400e:c08::69  googleapis.com
+
+172.217.160.106         www.googleapis.com
+172.217.24.10           www.googleapis.com
+172.217.160.74          www.googleapis.com
+172.217.27.138          www.googleapis.com
 172.253.117.95          www.googleapis.com
 74.125.20.95            www.googleapis.com
 74.125.197.95           www.googleapis.com
 74.125.195.95           www.googleapis.com
 74.125.142.95           www.googleapis.com
+2607:f8b0:400e:c03::5f  www.googleapis.com
+2607:f8b0:400e:c02::5f  www.googleapis.com
 2607:f8b0:400e:c07::5f  www.googleapis.com
 2607:f8b0:400e:c01::5f  www.googleapis.com
 2607:f8b0:400e:c09::5f  www.googleapis.com
