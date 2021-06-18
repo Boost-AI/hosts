@@ -7,7 +7,6 @@
 74.125.142.100   google.com
 74.125.142.102   google.com
 172.217.27.142   google.com
-
 210.209.84.142   www.google.com
 172.217.160.100  www.google.com
 216.58.200.228   www.google.com
@@ -18,16 +17,42 @@
 74.125.195.103   www.google.com
 74.125.195.106   www.google.com
 74.125.195.104   www.google.com
-
 2607:f8b0:400e:c08::8a   google.com
 2607:f8b0:400e:c08::8b   google.com
 2607:f8b0:400e:c08::65   google.com
 2607:f8b0:400e:c08::64   google.com
 2607:f8b0:400e:c08::66   google.com
 2607:f8b0:400e:c08::71   google.com
-
 2607:f8b0:400e:c09::6a   www.google.com
 2607:f8b0:400e:c09::69   www.google.com
 2607:f8b0:400e:c09::63   www.google.com
 2607:f8b0:400e:c09::67   www.google.com
 2607:f8b0:400e:c09::93   www.google.com
+
+172.217.160.101  gmail.com
+172.217.160.69   gmail.com
+74.125.195.18    mail.google.com
+74.125.195.83    mail.google.com
+74.125.195.17    mail.google.com
+74.125.195.19    mail.google.com
+2607:f8b0:400e:c09::11   gmail.com
+2607:f8b0:400e:c09::12   gmail.com
+2607:f8b0:400e:c09::53   gmail.com
+2607:f8b0:400e:c09::13   gmail.com
+2607:f8b0:400e:c09::11   mail.google.com
+2607:f8b0:400e:c09::13   mail.google.com
+2607:f8b0:400e:c09::53   mail.google.com
+2607:f8b0:400e:c09::12   mail.google.com
+
+172.217.160.78   drive.google.com
+74.125.142.138   drive.google.com
+74.125.142.102   drive.google.com
+74.125.142.101   drive.google.com
+74.125.142.113   drive.google.com
+74.125.142.139   drive.google.com
+74.125.142.100   drive.google.com
+2607:f8b0:400e:c08::64   drive.google.com
+2607:f8b0:400e:c08::71   drive.google.com
+2607:f8b0:400e:c08::65   drive.google.com
+2607:f8b0:400e:c08::66   drive.google.com
+
